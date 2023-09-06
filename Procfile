@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run mpg_prediction_web_app.py
